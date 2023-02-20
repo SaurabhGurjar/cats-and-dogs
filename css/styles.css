@@ -115,7 +115,7 @@ h1 {
     padding: 0;
 }
 
-p {
+.hero-description {
     font-size: 18px;
     color: #e5e7eb;
     margin: 0;
@@ -311,9 +311,11 @@ img {
     justify-content: center;
 }
 
-.footer-text {
+.footer-container {
     padding: 15px 0 15px 0;
+}
+
+.footer-text {
     color: white;
     font-size: 14px;
-
 }
